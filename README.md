@@ -32,7 +32,7 @@
     <td><a href="ML01/kidney_svm.ipynb">Support Vector Machine</a></td>
   </tr>
   <tr>
-    <td rowspan="4" align="center">With Feature Selection</td>
+    <td rowspan="7" align="center">With Feature Selection</td>
     <td><a href="ML02/kidney_ann.ipynb">Artificial Neural Network</a></td>
   </tr>
   <tr>
